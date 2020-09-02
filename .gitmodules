@@ -1,0 +1,12 @@
+[submodule "LunaGL/vendor/GLFW"]
+	path = LunaGL/vendor/GLFW
+	url = ../../Eearslya/GLFW.git
+[submodule "LunaGL/vendor/glm"]
+	path = LunaGL/vendor/glm
+	url = ../../g-truc/glm.git
+[submodule "LunaGL/vendor/spdlog"]
+	path = LunaGL/vendor/spdlog
+	url = ../../gabime/spdlog.git
+[submodule "LunaGL/vendor/imgui"]
+	path = LunaGL/vendor/imgui
+	url = ../../Eearslya/imgui.git
